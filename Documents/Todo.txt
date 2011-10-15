@@ -1,0 +1,12 @@
+- Optimize m_canvas->repaint() calls in CPuzzleSpanCreator::addEdgeDone and 
+  canvasMouseEvent to only repaint portions of the canvas that need to be
+  repainted. (See also CTreeNodeEditor.cpp)
+- Context menus for spans in the puzzle graph view
+- Chance trace
+- Chance graph
+- Random graph creator for puzzle, tree, and chance tree
+- Look into why lineedit done functions in Tree and Graph Node Editors are
+  being called twice
+- Use a more efficient sorting algorithm in CTreeGraphModel::sortChildNodes().
+- Implement a QDoubleValidator in the value line edit for CTreeNodeEditor.
+- Save image for puzzle.

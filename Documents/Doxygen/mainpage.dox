@@ -1,0 +1,13 @@
+/** @mainpage
+
+<h2>GNAT</h2>
+GNAT (Graphical AI Tracer, the 'N' stands for Nothing!) is a tool which allows
+students and teachers alike to create graphs of puzzles and trees and
+obtain traces for them quickly and easily.  Use the above links to view
+the documentation on the code, as well as the code itself.
+
+<a href="help/GNAT.html">Click Here</a> to view the User's Help File<br>
+<a href="developer_guide.doc">Click Here</a> to view the Developer's Guide<br>
+
+Copyright (c) 2005 Bob Buehler and Matt Dissinger
+*/

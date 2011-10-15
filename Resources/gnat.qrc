@@ -1,0 +1,25 @@
+<!DOCTYPE RCC>
+	<RCC version="1.0">
+	<qresource>
+	    <file>ai.png</file>
+	    <file>autolayout.png</file>
+	    <file>autoname.png</file>
+	    <file>autonumber.png</file>
+	    <file>exit.png</file>
+	    <file>graph.png</file>
+	    <file>latex.png</file>
+	    <file>new.png</file>
+	    <file>new_large.png</file>
+	    <file>open.png</file>
+	    <file>open_large.png</file>
+	    <file>orient.png</file>
+	    <file>quickedit.png</file>
+	    <file>recent.png</file>
+	    <file>recent_large.png</file>
+	    <file>save.png</file>
+	    <file>toggleheuristics.png</file>
+	    <file>togglechanceheuristics.png</file>
+	    <file>toggleminmaxheuristics.png</file>
+	    <file>trace.png</file>
+	</qresource>
+</RCC>
