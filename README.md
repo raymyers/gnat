@@ -6,9 +6,11 @@ A Graph editor and tracer.
 
 * Download the latest Qt SDK.
 
-* run qmake -o Makefile gnat.pro
+* run "qmake -o Makefile gnat.pro" to create the Makefile
 
-* run make
+* run "make" to build in debug mode
+
+* run "make release" to build in release mode
 
 ## Authors
 
