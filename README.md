@@ -19,8 +19,8 @@ These can be found in the Qt SDK installation. The path to the dlls looks like "
 
 ## Authors
 
-Designed by Dr. Daniel Tauritz.
+Designed by [Dr. Daniel Tauritz](http://web.mst.edu/~tauritzd/).
 
-Written by (in chronological order) Bob Buehler, Matt Dissinger, Kyle Owen and Ray Myers.
+Written by (in chronological order) Bob Buehler, Matt Dissinger, Kyle Owen and [Ray Myers](http://cadrlife.com).
 
 This program uses the Qt library, which is licensed under the LGPL.
